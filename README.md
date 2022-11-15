@@ -27,47 +27,9 @@ use {
 ```
 
 ### Supported functions and notations
-```
-abs
-pow
 
-log
-ln
-lg
-
-cos
-cosh
-acos
-
-sin
-sinh
-asin
-
-tan
-tanh
-atan
-atan2
-
-rad
-deg
-
-pi
-e
-
-floor
-ceil
-
-fmod
-modf
-
-exp
-frexp
-ldexp
-
-min
-max
-
-sqrt
-
-inf
-```
+| abs | log | cos  | sin  | tan   | rad | pi | floor | fmod |  exp  | min | sqrt | inf |
+|-----|-----|------|------|-------|-----|----|-------|------|-------|-----|------|-----|
+| pow | ln  | cosh | sinh | tanh  | deg | e  | ceil  | modf | frexp | max              |
+|     | lg  | acos | asin | atan  |     |    |       |      | ldexp |                  |
+|     |     |      |      | atan2 |
