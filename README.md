@@ -15,8 +15,15 @@ vim.api.nvim_create_user_command("Calculate", "lua require(\"calculator\").calcu
 ## Installation
 
 ### Packer
-```
+```lua
 use 'vzze/calculator.nvim'
+
+-- lazy loading
+use {
+    'vzze/calculator.nvim',
+    opt = true,
+    module = "calculator"
+}
 ```
 
 ### Supported functions and notations
