@@ -28,8 +28,12 @@ use {
 
 ### Supported functions and notations
 
+<center>
+
 | abs | log | cos  | sin  | tan   | rad | pi | floor | fmod |  exp  | min | sqrt | inf |
 |-----|-----|------|------|-------|-----|----|-------|------|-------|-----|------|-----|
 | pow | ln  | cosh | sinh | tanh  | deg | e  | ceil  | modf | frexp | max              |
 |     | lg  | acos | asin | atan  |     |    |       |      | ldexp |                  |
 |     |     |      |      | atan2 |
+
+</center>
